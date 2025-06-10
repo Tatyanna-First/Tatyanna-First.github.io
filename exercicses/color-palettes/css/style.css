@@ -36,13 +36,13 @@ body {
 }
 
 #color-palette-2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 #color-4 {
     background-color: #EF626C;
     color: rgb(0, 0, 0);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     padding: 24px;
 }
@@ -50,7 +50,7 @@ body {
 #color-5 {
     background-color: #22181C;
     color: aliceblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     padding: 24px;
 }
@@ -58,18 +58,18 @@ body {
 #color-6 {
     background-color: #312F2F;
     color: aliceblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     padding: 24px;
 }
 #color-palette-3 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 #color-7 {
     background-color: #048A81;
     color: rgb(0, 0, 0);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 24px;
 }
@@ -77,7 +77,7 @@ body {
 #color-8 {
     background-color: #06D6A0;
     color: rgb(5, 9, 14);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 24px;
 }
@@ -85,7 +85,7 @@ body {
 #color-9 {
     background-color: #54C6EB;
     color: rgb(1, 2, 3);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 24px;
 }
