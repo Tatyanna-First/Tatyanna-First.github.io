@@ -1,0 +1,69 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+.post-it {
+    background-color: rgb(231, 252, 43);
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px;
+    padding: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.post-it-image {
+    background-color: rgb(43, 252, 172);
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px;
+    padding: 24px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.post-it-mot {
+    background-color: blueviolet;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px;
+    padding: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-it-doc {
+    background-color: rgb(228, 90, 124);
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px;
+    padding: 24px;
+    font-family: cursive;
+}
+
+.post-it-you {
+    background-color: rgb(234, 250, 16);
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px;
+    padding: 24px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-it-cherry {
+    background-color: rgb(226, 43, 89);
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px;
+    padding: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
