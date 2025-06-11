@@ -44,13 +44,3 @@
     border-color: rgb(221, 116, 18);
 }
 
-.tetris-long-block-blu {
-    padding: 30px;
-    border-width: 15px;
-    border-radius: 9cqh;
-    border-style: outset;
-    display: inline-block;
-    border-color: rgb(26, 26, 192);
-    background-color: blue;
-}
-
