@@ -1,0 +1,35 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the assignment.
+
+    Good luck, and have fun!
+*/
+.frames {
+    display: inline-block;
+    border-style: ridge;
+    border-width: 5px;
+    padding: 9px;
+}
+
+.Andy {
+    background-color: rgb(245, 177, 177);
+    border-color: brown;
+    margin-left: 90px;
+    
+}
+
+.paper {
+    display: inline-block;
+    border-style: groove;
+    border-width: 5px;
+    padding: 9px;
+}
+
+.yellow {
+    background-color: rgb(253, 239, 40);
+    border-color: black;
+    margin-left: 40px;
+}
+
