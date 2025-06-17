@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.container-1 {
+    background-color: rgb(247, 202, 105);
+    color: rgb(104, 29, 0);
+    padding: 48px 0px;
+}
+
