@@ -9,6 +9,7 @@
 */
 .card-style-2 {
     width: 350px;
+    height: 535px;
     border-style: none;
     border-radius: 30px;
     background-color: white;
@@ -20,7 +21,7 @@
 .card-style-2 img {
     width: 100%;
     border-radius: 50%;
-    padding: 15%;
+    padding: 0px 65px;
 }
 
 .animagram-header {
