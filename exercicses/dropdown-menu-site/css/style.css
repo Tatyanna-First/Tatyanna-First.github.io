@@ -4,7 +4,7 @@
 
 body {
     margin: 0px;
-    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #navbar {
     background: linear-gradient(to bottom, #c9ab58, #ca6d2f);
@@ -20,7 +20,7 @@ body {
 }
 
 #navbar a:hover {
-    background: linear-gradient(to top, #109cb8, #0e5b96);
+    background: linear-gradient(to top, #834b0c, #d1891d);
 }
 
 #navbar #logo {
@@ -54,13 +54,13 @@ body {
 }
 
 .dropdown-menu a {
-    background-color: darkslateblue;
+    background-color: rgb(194, 179, 42);
     width: 100%;
     min-width: 200px;
 }
 
 #navbar .dropdown-menu a:hover {
-    background: slateblue;
+    background: rgb(148, 101, 14);
 }
 
 #hero {
@@ -83,3 +83,4 @@ body {
     bottom: 85%;
     color: saddlebrown;
 }
+
